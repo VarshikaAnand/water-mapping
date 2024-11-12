@@ -23,4 +23,5 @@ The mapping can also be integrated with a mobile app for remote access.​
 
 ## Example Mapping
 ![WhatsApp Image 2024-11-12 at 21 43 36_225ca011](https://github.com/user-attachments/assets/6ce7b352-64bb-4a0d-aefe-a4e7e7785cfa)
+https://github.com/user-attachments/assets/35e7bf55-7758-4d24-bcf0-190563912913
 
