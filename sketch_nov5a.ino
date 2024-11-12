@@ -62,7 +62,7 @@ long measureDistance() {
   duration = pulseIn(echoPin, HIGH);
 
   // Convert duration to distance in cm (adjust for water speed of sound)
-  distance = duration * 0.0343/ 2;
+  distance = duration * 0.1481/ 2;
 
   return distance;
 }
