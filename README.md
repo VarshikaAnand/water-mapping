@@ -10,7 +10,9 @@ The solution is a compact device that can be used to map out a water body's floo
 ## Ciruit
 HC-SR04 Ultrasonic Sensor: VCC to 5v on Arduino, GND to GND, Trig pin to Digital Pin 9 and Echo Pin to Digital Pin 8.​
 
-Neo 6M GPS Module: VCC to 3.3V, GND to GND, TX to RX Pin of Arduino and RX to TX Pin of Arduino. ​
+Neo 6M GPS Module: VCC to 3.3V, GND to GND, TX to RX Pin of Arduino and RX to TX Pin of Arduino.
+![WhatsApp Image 2024-11-12 at 21 45 59_039d9d51](https://github.com/user-attachments/assets/2cf61fd7-8752-4621-a340-e613efe7a649)
+​
 
 ## Future Scope
 We can scale this project by using a more industrial grade sensor (such as SONAR) with higher accuracy and low distortions in readings.​
