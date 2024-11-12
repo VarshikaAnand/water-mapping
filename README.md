@@ -8,4 +8,16 @@ The solution is a compact device that can be used to map out a water body's floo
 - Neo 6M GPS Module
 
 ## Ciruit
+HC-SR04 Ultrasonic Sensor: VCC to 5v on Arduino, GND to GND, Trig pin to Digital Pin 9 and Echo Pin to Digital Pin 8.​
+
+Neo 6M GPS Module: VCC to 3.3V, GND to GND, TX to RX Pin of Arduino and RX to TX Pin of Arduino. ​
+
+## Future Scope
+We can scale this project by using a more industrial grade sensor (such as SONAR) with higher accuracy and low distortions in readings.​
+
+A proper floater or a boat-like structure can be used to conveniently record the depths in a more uniform manner.​
+
+A WiFi or Bluetooth module can be integrated with the Arduino along with a portable power supply for remote operation. The whole device could be integrated into a remote-controlled water drone to map the body from the convenience of dry land.​
+
+The mapping can also be integrated with a mobile app for remote access.​
 
