@@ -7,7 +7,7 @@ The solution is a compact device that can be used to map out a water body's floo
 - SR04 Waterproof Ultrasonic Sensor
 - Neo 6M GPS Module
 
-## Ciruit
+## Circuit
 HC-SR04 Ultrasonic Sensor: VCC to 5v on Arduino, GND to GND, Trig pin to Digital Pin 9 and Echo Pin to Digital Pin 8.​
 
 Neo 6M GPS Module: VCC to 3.3V, GND to GND, TX to RX Pin of Arduino and RX to TX Pin of Arduino.
